@@ -8,6 +8,6 @@ export default defineConfig({
   },
   module.exports = {
   projectId: "xabjbb",
-  // ...rest of the Cypress project config
+
 }
-)
+                            })
