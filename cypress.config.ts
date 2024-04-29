@@ -6,4 +6,8 @@ export default defineConfig({
     setupNodeEvents(on, config) {},
     baseUrl: 'http://localhost:8888',
   },
-})
+  module.exports = {
+  projectId: "xabjbb",
+  // ...rest of the Cypress project config
+}
+)
